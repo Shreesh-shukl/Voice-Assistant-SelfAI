@@ -145,7 +145,7 @@ elif 'whatsapp a message' or 'send a message' in command:
     hre=sr[0]+sr[1]
     hr=int(mine)
     min=int(hre)
-    pw.sendwhatmsg('+918979771794',f'{com}', hr, min)
+    pw.sendwhatmsg('+91',f'{com}', hr, min)
         
         
 
